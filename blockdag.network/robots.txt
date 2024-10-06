@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /cookie
+Disallow: /privacy
+Disallow: /terms
+Disallow: /?*
+User-agent: Cryptovan.news - Bot
+Disallow: /
+User-agent: daumoa
+Disallow: /
+User-agent: Sosospider
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: semetrical
+Disallow: /
+User-agent: grapeshot
+Disallow:
+User-agent: trovitBot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: WeSEE_Bot
+Sitemap: https://blockdag.network/sitemap.xml
